@@ -1,8 +1,8 @@
-FarmConnect – AI-Powered Agricultural Marketplace
+FarmKonnect – AI-Powered Agricultural Marketplace
 1. Introduction
-Agriculture plays a vital role in Pakistan’s economy, yet small and medium farmers continue to face challenges such as lack of access to transparent market information, limited buyer reach, and price exploitation. The absence of a centralized, data-driven trading system leads to inefficiency and loss of farmer income.
+Agriculture plays a vital role in Pakistan's economy, yet small and medium farmers continue to face challenges such as lack of access to transparent market information, limited buyer reach, and price exploitation. The absence of a centralized, data-driven trading system leads to inefficiency and loss of farmer income.
 
-FarmConnect is an AI-powered agricultural marketplace designed to bridge the gap between farmers and buyers. The platform provides real-time mandi price updates, AI-based price forecasts, and secure digital payments through Easypaisa and JazzCash. FarmConnect aims to establish a transparent, intelligent, and user-friendly digital ecosystem that empowers farmers and promotes fair trade.
+FarmKonnect is an AI-powered agricultural marketplace designed to bridge the gap between farmers and buyers. The platform provides real-time mandi price updates, AI-based price forecasts, and secure digital payments through Easypaisa and JazzCash. FarmKonnect aims to establish a transparent, intelligent, and user-friendly digital ecosystem that empowers farmers and promotes fair trade.
 2. Project Objectives
 •	Enable farmers to access real-time market prices and trends.
 •	Facilitate direct trading between farmers and buyers without intermediaries.
@@ -10,7 +10,7 @@ FarmConnect is an AI-powered agricultural marketplace designed to bridge the gap
 •	Utilize artificial intelligence to forecast short-term price movements.
 •	Offer a bilingual platform (Urdu and English) that is intuitive and accessible.
 3. System Overview
-FarmConnect combines three functional layers into a single cohesive system:
+FarmKonnect combines three functional layers into a single cohesive system:
 Information Layer: Displays live mandi prices, historical data, and comparative price analysis.
 Transaction Layer: Enables farmers to list produce, receive offers, negotiate, and complete payments securely 
 Intelligence Layer: Integrates AI models to forecast commodity prices and send timely       alerts.
@@ -72,4 +72,4 @@ Payments	Easypaisa / JazzCash APIs
 External Data	PAR / AMIS, OpenWeather API
 
 Summary
-FarmConnect aims to revolutionize agricultural trading in Pakistan by integrating data intelligence, secure payments, and digital connectivity into a single bilingual platform. The system’s modular architecture ensures scalability, security, and accessibility, paving the way toward a fair and transparent agricultural economy.
+FarmKonnect aims to revolutionize agricultural trading in Pakistan by integrating data intelligence, secure payments, and digital connectivity into a single bilingual platform. The system's modular architecture ensures scalability, security, and accessibility, paving the way toward a fair and transparent agricultural economy.
